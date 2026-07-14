@@ -2,6 +2,8 @@
   "name": "reactpro",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bhavaakshaya5.github.io/DanceReact/",
+
   
   "dependencies": {
     "@emotion/react": "^11.14.0",
